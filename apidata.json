@@ -53,7 +53,7 @@
                 "data": {
                     "phone": "{target}"
                 },
-                "identifier": "Sent"
+                "identifier": "waal"
             },
             {
                 "name": "porter",
